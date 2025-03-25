@@ -1,5 +1,5 @@
-# 💫 About Me:
- I’m an enthusiastic computer science student with a strong background in programming, software engineering,<br> and problem-solving. Passionate about challenging tasks, developing technical skills, and innovative solutions.<br> Excited to contribute to important projects and advance professionally in the industry. Demonstrating<br> dedication to quality, teamwork, and continuous growth, backed by academic and practical experience.
+# 💫 I am Sathija Dissanayake
+An enthusiastic computer science student with a strong background in programming, software engineering,<br> and problem-solving. Passionate about challenging tasks, developing technical skills, and innovative solutions.<br> Excited to contribute to important projects and advance professionally in the industry. Demonstrating<br> dedication to quality, teamwork, and continuous growth, backed by academic and practical experience.
 
 
 ## 🌐 Socials:
